@@ -22,5 +22,5 @@
 
 ### 📊 GitHub Վիճակագրություն
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karinaelyasyan2001&show_icons=true&theme=radial" alt="karinaelyasyan2001 github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karinaelyasyan2001&show_icons=true&theme=tokyonight" alt="karinaelyasyan2001 github stats" />
 </p>
